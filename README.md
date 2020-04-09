@@ -1,7 +1,7 @@
 # wago_visualgdb_example
 Example project using VisualGDB for Linux development on PfC and TP platform
 
-# setting up the devices
+# Setting up the devices
 When building your project use the following settings in the device setup:
 
 | --- | Directory |
@@ -15,7 +15,7 @@ Then add the Extra Path:
 | --- | --- |
 | Extra Path Directories | /home/wago/wago/ptxproj/platform-wago-PFCXXX/sysroot-target |
 
-# setting up the Makiefile
+# Setting up the Makiefile
 You will need to add the include and library paths, and call the libraries
 
 | ` ` | Include Paths |
