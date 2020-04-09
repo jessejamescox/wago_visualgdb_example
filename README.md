@@ -18,23 +18,23 @@ Then add the Extra Path:
 # setting up the Makiefile
 You will need to add the include and library paths, and call the libraries
 
-| --- | Include Paths |
-| --- | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/include  |
-| --- | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/include  |
-| --- | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/include/OsLinux |
+|  | Include Paths |
+|  | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/include  |
+|  | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/include  |
+|  | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/include/OsLinux |
 
-| --- | Library Paths |
-| --- | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/lib  |
-| --- | //home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/lib  |
+|  | Library Paths |
+|  | /home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/usr/lib  |
+|  | //home/wago/wago/ptxproj/platform-wago-pfcXXX/sysroot-target/lib  |
 
-| --- | Library Names |
-| --- | dal |
-| --- | glib-2.0 |
-| --- | pthread |
-| --- | ffi |
-| --- | rt |
-| --- | libloader |
-| --- | oslinux |
-| --- | dl |
-| --- | ncurses |
-| --- | pcre |
+|  | Library Names |
+|  | dal |
+|  | glib-2.0 |
+|  | pthread |
+|  | ffi |
+|  | rt |
+|  | libloader |
+|  | oslinux |
+|  | dl |
+|  | ncurses |
+|  | pcre |
